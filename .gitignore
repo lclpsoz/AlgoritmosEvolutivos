@@ -1,0 +1,14 @@
+*.tsv
+*.pf
+*.dat
+*.txt
+*.pyc
+*.jar
+/.metadata/
+/.metadata/
+*nbproject*
+*.log.1
+jMetal-master/jmetal-exec/bckp_data/
+*.png
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
